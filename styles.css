@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.btn-custom {
+  background-color: #28a745;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+.btn-custom:hover {
+  background-color: #218838;
+}
+
+/*# sourceMappingURL=styles.css.map */
